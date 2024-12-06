@@ -9,10 +9,12 @@ This repository presents the archive of code implementation for my MDaSc (Master
     - Google Earth Engine API
     - Multi-resolution and Multi-channel inputs (wildfire events, ERA5 weather variables, NDVI, land covers, elevation, etc.)
     - Convolutional Variational Autoencoder (C-VAE)
+
 - Part II Research Modelling
     - Pixelwise binary classification on wildfire events and Regression on long-term andshort-term weather
     - Bi-directional Convolutional LSTM (BiConvLSTM) Encoder
     - Multi-head attention mechanism as adopted in Transformer models
+
 - Part III Generative Adversarial Learning
     - Conditional GAN (Generator + Critic models)
     - Generator with mixture of random noises and BiConvLSTM-encoded features
